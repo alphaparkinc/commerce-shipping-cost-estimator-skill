@@ -1,3 +1,3 @@
 # commerce-shipping-cost-estimator-skill
 
-Production-ready agent skill for Shipping cost estimation.
+> **GenPark AI Agent Skill** -- Production-ready agent skill for Shipping cost estimation.
